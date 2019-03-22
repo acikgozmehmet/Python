@@ -1,0 +1,6 @@
+Sprite,1.25,8
+Diet Pepsi,0.90,25
+Diet Coke,0.90,2
+Root Beer,1.25,5
+Pepsi,0.90,7
+Dr. Pepper,1.25,12

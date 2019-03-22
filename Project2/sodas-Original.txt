@@ -1,0 +1,4 @@
+Mtn. Dew,1.50,10
+Pepsi,1.50,1
+Water,1.00,8
+Diet Coke,0.90,10
